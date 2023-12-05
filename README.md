@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](https://github.com/adiazmazzola/adiazmazzola/blob/main/Banner.png)
+![Banner](https://github.com/adiazmazzola/adiazmazzola/blob/main/BannerGitHub.png)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alvaro Diaz
 ===================================================================================================================================
