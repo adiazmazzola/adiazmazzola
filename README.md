@@ -13,13 +13,30 @@ Dynamic Data Scientist and analytical self-starter, transitioning seamlessly fro
 
 
 <div style="display: inline_block"><en>
+
+<a href="https://www.python.org/" target="_blank">
     <img align="center" alt="Alvaro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a>
+<a href="https://numpy.org/" target="_blank">
     <img align="center" alt="Alvaro-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
     <img align="center" alt="Alvaro-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-    <img align="center" alt="Alvaro-Jup" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg">
+</a>
+<a href="https://jupyter.org/" target="_blank">
+    <img align="center" alt="Alvaro-Jup" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+</a>
+<a href="https://devdocs.io/c/" target="_blank">
     <img align="center" alt="Alvaro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</a>
+<a href="https://www.linux.org/" target="_blank">
     <img align="center" alt="Alvaro-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</a>
+<a href="https://cloud.google.com/docs/" target="_blank">
     <img align="center" alt="Alvaro-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+</a>
+
+
 </div>
   
 
