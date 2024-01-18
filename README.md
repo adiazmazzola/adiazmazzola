@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alvaro Diaz
 ===================================================================================================================================
 
-Dynamic Data Scientist and analytical self-starter, transitioning seamlessly from a legal background to data science. My career is characterized by a steadfast commitment to lifelong learning and adaptability, fueled by a passion for transforming complex data into actionable insights in collaborative team settings. I thrive in environments that demand analytical rigor and innovative problem-solving
+Dynamic Data Scientist and analytical self-starter with Data Engineer experience, leveraging a strong commitment to lifelong learning and adaptability. Adept at transforming complex data into actionable insights in collaborative team settings. Proven experience in designing and implementing dataflow-integrated streaming pipelines with IoT sensors, achieving significant improvements in KPIs. Proficient in utilizing Tensorflow libraries for image recognition and passionate advocate for Linux systems
 
 * 🌍  I'm based in Palermo, Italy
 * ✉️  You can contact me at [adiazmazzola@gmail.com](mailto:adiazmazzola@gmail.com)
