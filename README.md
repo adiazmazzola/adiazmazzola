@@ -27,18 +27,18 @@ Nested rows are expanded on demand in the UI. No record-level detail lost.
 - L3 production support. Direct line to business owners and IT module owners.
 - I take vague business specs, find the actual pain point and turn it into executable work.
 
-```c
-/* every implementation has to satisfy both */
-#define RULE_1 "quality data in, quality outcomes out"
-#define RULE_2 "robust systems make mission-critical operations confident and repeatable"
-```
+**Every implementation has to satisfy both:**
+1. Quality data in, quality outcomes out.
+2. Robust systems make mission-critical operations confident and repeatable.
 
-```text
-$ git log --format='%ad  %s' --date=format:%Y-%m
-2024-02  Swiss Re (via Fincons Group / Esprimo): Sr. Data Engineer, Palantir Foundry
-2021-09  Ministry of Production & Environment, AR: Dataflow IoT streaming, TensorFlow disease detection (93%)
-2018-01  Diaz Mazzola Law Firm: lawyer, owner
-```
+## history
+
+| since   | where                                    | what                                                                                                      |
+|---------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 2024-02 | Swiss Re (via Fincons Group / Esprimo)   | Sr. Data Engineer, Palantir Foundry                                                                       |
+| 2021-09 | Ministry of Production & Environment, AR | Dataflow IoT streaming, TensorFlow disease detection (93%)                                                |
+| 2018-01 | Diaz Mazzola Law Firm                    | Lawyer, owner                                                                                             |
+| 2017-10 | Hospital Eleazar Herrera Motta           | Administrative Director. Digitized admin, patient intake, billing and statistics: 5x operational efficiency |
 
 ## stack
 
