@@ -1,0 +1,48 @@
+name: activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render recent public events
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER: ${{ github.repository_owner }}
+        run: |
+          gh api "users/${USER}/events/public?per_page=100" --jq '
+            .[]
+            | select(.type | test("^(Push|Create|PullRequest|Issues|Release|Fork|Public)Event$"))
+            | [.created_at[:10],
+               (.type | sub("Event$"; "") | ascii_downcase),
+               .repo.name,
+               (.payload.ref // "" | sub("^refs/heads/"; ""))]
+            | @tsv' | head -n 8 | column -t -s $'\t' > events.txt
+          [ -s events.txt ] || echo "no public events" > events.txt
+          {
+            echo '<!--START_SECTION:activity-->'
+            echo '```text'
+            cat events.txt
+            echo '```'
+            echo '<!--END_SECTION:activity-->'
+          } > block.txt
+          perl -0pi -e 'BEGIN { local $/; open F, "<", "block.txt"; $b = <F>; $b =~ s{\n\z}{} }
+                        s/<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->/$b/s' README.md
+          rm events.txt block.txt
+
+      - name: Commit
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update activity"
+          git push
