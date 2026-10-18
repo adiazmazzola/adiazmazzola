@@ -6,7 +6,7 @@
 Swiss Re, Finance Reporting & Analytics Engineering, since 2024. IFRS17 planning and reporting, 150+ users.\
 End-to-end data products on Foundry, 7B-record scale. Italy, remote. EU citizen. ES / EN / IT.
 
-## numbers
+## Numbers
 
 | what                                               | before    | after     |
 |----------------------------------------------------|----------:|----------:|
@@ -16,7 +16,7 @@ End-to-end data products on Foundry, 7B-record scale. Italy, remote. EU citizen.
 
 Nested rows are expanded on demand in the UI. No record-level detail lost.
 
-## work
+## Work
 
 - Data-intensive processing: joins and aggregations over 7B records.
 - System design on Foundry: end-to-end data products, from ingestion and pipelines through ontology and functions to custom front ends.
@@ -33,7 +33,7 @@ Nested rows are expanded on demand in the UI. No record-level detail lost.
 
 If both get a solid answer, we are good to start building.
 
-## history
+## History
 
 | since   | where                                    | what                                                                                                      |
 |---------|------------------------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ If both get a solid answer, we are good to start building.
 | 2018-01 | Diaz Mazzola Law Firm                    | Lawyer, owner                                                                                             |
 | 2017-10 | Hospital Eleazar Herrera Motta           | Administrative Director. Digitized admin, patient intake, billing and statistics: 5x operational efficiency |
 
-## stack
+## Stack
 
 | | |
 |---|---|
@@ -54,6 +54,6 @@ If both get a solid answer, we are good to start building.
 | `env`     | ![Linux](https://img.shields.io/badge/Linux-1c1917?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-1c1917?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-1c1917?style=flat-square&logo=jupyter&logoColor=white) |
 | `domain`  | ![IFRS17](https://img.shields.io/badge/IFRS17-1c1917?style=flat-square) ![BECF](https://img.shields.io/badge/BECF-1c1917?style=flat-square) ![Reinsurance Contracts](https://img.shields.io/badge/Reinsurance_Contracts-1c1917?style=flat-square) ![Underwriting Workflows](https://img.shields.io/badge/Underwriting_Workflows-1c1917?style=flat-square) ![Market Mappings](https://img.shields.io/badge/Market_Mappings-1c1917?style=flat-square) ![Rollforwards](https://img.shields.io/badge/Rollforwards-1c1917?style=flat-square) |
 
-## contact
+## Contact
 
 [adiazmazzola@gmail.com](mailto:adiazmazzola@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alvaro-arturo-diaz-a2a4552a1/) · open to collaboration on data pipelines, Foundry, ML
