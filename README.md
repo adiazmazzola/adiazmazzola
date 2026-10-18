@@ -27,9 +27,11 @@ Nested rows are expanded on demand in the UI. No record-level detail lost.
 - L3 production support. Direct line to business owners and IT module owners.
 - I take vague business specs, find the actual pain point and turn it into executable work.
 
-**Every implementation has to satisfy both:**
-1. Quality data in, quality outcomes out.
-2. Robust systems make mission-critical operations confident and repeatable.
+**Every implementation has to answer yes to both:**
+1. Does it add business value?
+2. Does it make the process easier, more efficient and more robust?
+
+Only then does it go to the client or end user.
 
 ## history
 
