@@ -1,37 +1,10 @@
 ![Banner](Images/BannerGitHub.png)
 
-```c
-/*
- * adiazmazzola.h
- *
- * Alvaro Arturo Diaz
- * Senior Data Engineer | FDE (Palantir Foundry)
- * Italy, remote | EU citizen
- */
+## Alvaro Arturo Diaz
 
-#ifndef ADIAZMAZZOLA_H
-#define ADIAZMAZZOLA_H
-
-typedef struct {
-    const char *role;
-    const char *client;
-    const char *domain;
-    const char *scale;
-    const char *since;
-    const char *spoken[3];
-} engineer_t;
-
-static const engineer_t alvaro = {
-    .role   = "Senior Data Engineer, Palantir Foundry consultant",
-    .client = "Swiss Re, Finance Reporting & Analytics Engineering",
-    .domain = "IFRS17 planning and reporting, 150+ users",
-    .scale  = "7B records, end-to-end data products on Foundry",
-    .since  = "2024-02",
-    .spoken = { "es", "en", "it" },
-};
-
-#endif /* ADIAZMAZZOLA_H */
-```
+**Senior Data Engineer | FDE (Palantir Foundry)**\
+Swiss Re, Finance Reporting & Analytics Engineering, since 2024. IFRS17 planning and reporting, 150+ users.\
+End-to-end data products on Foundry, 7B-record scale. Italy, remote. EU citizen. ES / EN / IT.
 
 ## numbers
 
