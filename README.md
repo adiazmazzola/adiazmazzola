@@ -27,11 +27,11 @@ Nested rows are expanded on demand in the UI. No record-level detail lost.
 - L3 production support. Direct line to business owners and IT module owners.
 - I take vague business specs, find the actual pain point and turn it into executable work.
 
-**Every implementation has to answer yes to both:**
+**Before any design, I ask two questions:**
 1. Does it add business value?
 2. Does it make the process easier, more efficient and more robust?
 
-Only then does it go to the client or end user.
+If both get a solid answer, we are good to start building.
 
 ## history
 
